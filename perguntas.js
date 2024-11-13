@@ -1,5 +1,5 @@
 criaCartao(
-    'Programação',
+    'Piada',
     'Por que a água foi presa?',
     'Por que ela matou a sede'
 )
